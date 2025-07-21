@@ -6,3 +6,7 @@ print(no)#use to display how many time a particukar value is present in the tupl
 
 i=a.index(False)
 print(i)#it will returns the first index of a particular value
+
+repeat=(1,2,3)
+r=repeat*5#this will print the value of repeat 5 time
+print(r)
