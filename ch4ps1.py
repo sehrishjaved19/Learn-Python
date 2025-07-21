@@ -1,0 +1,27 @@
+a=input(" Enter Fruit1: ")
+b=input(" Enter Fruit2: ")
+c=input(" Enter Fruit3: ")
+d=input(" Enter Fruit4: ")
+e=input(" Enter Fruit5: ")
+f=input(" Enter Fruit6: ")
+g=input(" Enter Fruit7: ")
+fruits=[a,b,c,d,e,f,g]
+print(fruits)
+
+#another way
+fruits=[]
+a=input(" Enter Fruit1: ")
+fruits.append(a)
+b=input(" Enter Fruit2: ")
+fruits.append(b)
+c=input(" Enter Fruit3: ")
+fruits.append(c)
+d=input(" Enter Fruit4: ")
+fruits.append(d)
+e=input(" Enter Fruit5: ")
+fruits.append(e)
+f=input(" Enter Fruit6: ")
+fruits.append(f)
+g=input(" Enter Fruit7: ")
+fruits.append(g)
+print(fruits)
