@@ -7,4 +7,4 @@ def factorial(n):
     else:
         return n * factorial(n - 1)  # Recursive call
 
-print(factorial(5))  # Output: 120
+print("The factorial is", (factorial(5)))
