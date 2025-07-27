@@ -1,14 +1,14 @@
 Sehrish is learing Python!
 python was introduced by Guido Van Rossum
 Python is used in:
-        -->web development(build websites, web apps, APIs)
-        -->Data Science & Analytics
-        -->Machine Learning & APIs(train models, make predictions, automate intelligence)
-        -->Automation / Scripting(Automate boring/ repetitive tasks)
-        -->Content Writing 7 NLP(Generate, clean or enhance text)
-        -->Cybersecurity & Ethical Hacking
-        -->Game development(build simple 2D games or logic games)
-        -->Desktop Applications(GUL)
-        -->Internet of things(Control hardware like sensors,etc)
+-->web development(build websites, web apps, APIs)
+-->Data Science & Analytics
+-->Machine Learning & APIs(train models, make predictions, automate intelligence)
+-->Automation / Scripting(Automate boring/ repetitive tasks)
+-->Content Writing 7 NLP(Generate, clean or enhance text)
+-->Cybersecurity & Ethical Hacking
+-->Game development(build simple 2D games or logic games)
+-->Desktop Applications(GUL)
+-->Internet of things(Control hardware like sensors,etc)
 
 
