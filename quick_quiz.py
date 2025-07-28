@@ -1,0 +1,11 @@
+#write a program to print tuple of pakistan's provinece states , add tuple method len count and index, access elements.
+tup = ('Punjab','Sindh','Punjab','Balochistan','Khyber Pakhtunkhwa')
+print(tup)
+print(len(tup))
+count_tup = tup.count('Punjab')
+print(count_tup)
+idx = tup.index('Khyber Pakhtunkhwa')
+print(idx)
+print("First Province : ",tup[0])
+print("Middle Province : ",tup[2])
+print("Last Province : ",tup[4])
