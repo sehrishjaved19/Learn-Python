@@ -34,8 +34,7 @@ Whether you’re a **student, beginner developer, or self-learner**, this reposi
 | 08 | [Exceptions & Debugging](./08_Exceptions_Debugging/README.md) | Handle runtime errors and apply debugging techniques. |
 | 09 | [Modules & Packages](./09_Modules_and_Packages/README.md) | Work with Python’s built-in modules and modular code organization. |
 | 10 | [Object-Oriented Programming](./10_Object_Oriented_Programming/README.md) | Dive into classes, objects, inheritance, and encapsulation. |
-| 11 | [Projects & Practice](./11_Projects_Practice/README.md) | Apply concepts to real-world mini-projects. |
-| 12 | [Mini Projects](./11_Mini_Projects/README.md) | Build practical tools like To-Do apps, file organizers, and more. |
+| 11 | [Mini Projects](./11_Mini_Projects/README.md) | Build practical tools like To-Do apps, file organizers, and more. (**working on it**)|
 
 ---
 
@@ -149,7 +148,7 @@ Python-code/
 │   ├── Practice_Exercises/
 │   └── README.md
 │
-├── 11_Projects_Practice/
+├── 11_Mini_Projects/
 │   ├── 01_guess_the_number.py
 │   ├── 02_snake_water_gun.py
 │   ├── 03_email_slicer.py
@@ -165,7 +164,7 @@ Python-code/
 ├── CODE_OF_CONDUCT.md
 └── .gitignore
 
-
+```
 ---
 
 ## 🧠 Learning Objectives
@@ -206,7 +205,7 @@ Optional:
 
 ---
 
-## 🧱 Projects Included
+## 🧱 Projects to be Included
 
 ### 🧮 Beginner Projects
 
