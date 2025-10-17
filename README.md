@@ -52,13 +52,13 @@ Python-code/
 │   └── README.md
 │
 ├── 05_Conditionals_Loops/
-│   ├── 01_if_else.py
-│   ├── 02_nested_if.py
-│   ├── 03_match_case.py
-│   ├── 04_while_loop.py
+│   ├── 01_if_elif_else_ladder.py
+│   ├── 02_match_case.py
+│   ├── 03_while_loop.py
+│   ├── 04_loop.py
 │   ├── 05_for_loop.py
-│   ├── 06_break_continue_else.py
-│   ├── 07_loop_exercises.py
+│   ├── 06_break_continue_statement.py
+│   ├── 07_pass_statement.py
 │   ├── Practice_Exercises/
 │   └── README.md
 │
