@@ -79,25 +79,20 @@ Python-code/
 │   ├── file.txt
 │   ├── poem.txt
 │   └── README.md
-
 │
 ├── 08_Exceptions_Debugging/
 │   ├── 01_try_except.py
 │   ├── 02_finally_else.py
 │   ├── 03_raise_custom_errors.py
 │   ├── 04_debugging_tips.py
-│   ├── Practice_Exercises/
 │   └── README.md
 │
 ├── 09_Modules_and_Packages/
-│   ├── 01_import_modules.py
-│   ├── 02_math_module.py
-│   ├── 03_random_datetime.py
-│   ├── 04_os_module.py
-│   ├── 05_user_defined_modules/
-│   │   ├── mymodule.py
-│   │   ├── use_mymodule.py
-│   ├── Practice_Exercises/
+│   ├── 01_built_in_modules.py
+│   ├── 02_date_time_module.py
+│   ├── 03_math_module.py
+│   ├── 04_random_num.py
+│   ├── 05_regex_module.py
 │   └── README.md
 │
 ├── 10_Object_Oriented_Programming/
@@ -112,15 +107,6 @@ Python-code/
 │   ├── Practice_Exercises/
 │   └── README.md
 │
-├── 11_Advanced_Topics/
-│   ├── 01_lambda_map_filter_reduce.py
-│   ├── 02_decorators.py
-│   ├── 03_generators.py
-│   ├── 04_comprehensions.py
-│   ├── 05_enumerate_zip.py
-│   ├── 06_virtual_environment.py
-│   └── README.md
-│
 ├── 11_Projects_Practice/
 │   ├── 01_guess_the_number.py
 │   ├── 02_snake_water_gun.py
@@ -131,13 +117,13 @@ Python-code/
 │   ├── Practice_Exercises/
 │   └── README.md
 │
-├── 12_Mini_Projects/
+├── 11_Mini_Projects/
 │   ├── 01_file_organizer.py
 │   ├── 02_todo_app.py
 │   ├── 03_weather_app.py
 │   └── README.md
 │
-├── 13_Extra_Practice/
+├── 12_Extra_Practice/
 │   ├── 01_problem_set_1.py
 │   ├── 02_problem_set_2.py
 │   ├── 03_misc_exercises.py
