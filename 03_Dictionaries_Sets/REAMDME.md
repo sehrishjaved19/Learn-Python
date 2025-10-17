@@ -51,4 +51,4 @@ Try out these small projects:
 
 ---
 
-**Next Section →** [04_Conditionals_Loops](../04_Conditionals_Loops/README.md)
+**Next Section →** [04_Operators](../04_Operators/README.md)
