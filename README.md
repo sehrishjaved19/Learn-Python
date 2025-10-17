@@ -65,9 +65,8 @@ Python-code/
 ├── 06_Functions_Recursion/
 │   ├── 01_functions_basics.py
 │   ├── 02_return_and_parameters.py
-│   ├── 03_default_args_kwargs.py
+│   ├── 03_global_variables_functions.py
 │   ├── 04_recursion_basics.py
-│   ├── 05_factorial_recursive.py
 │   ├── Practice_Exercises/
 │   └── README.md
 │

@@ -1,44 +1,47 @@
-# 🧮 06_Functions_Recursion
+# 🌀 06_Functions_Recursion
 
 Welcome to the **Functions and Recursion** section!  
-This is one of the most powerful parts of Python — you’ll learn how to structure your code into reusable, organized blocks using **functions**, and how functions can call themselves through **recursion**.  
-
-Functions help make code **modular**, **readable**, and **efficient**, while recursion introduces problem-solving through repeated self-calls.
+In this section, you’ll learn how to write **modular, reusable, and organized** code using functions — the foundation of clean and efficient Python programming.  
+You’ll also explore **recursion**, an advanced concept where functions call themselves to solve complex problems elegantly.
 
 ---
 
 ## 📘 Overview
 
-You’ll learn:
+You will learn:
+
 - How to **define and call functions** in Python.  
-- How to use **parameters** and **return values** to make functions flexible.  
-- The difference between **local** and **global** variables.  
-- How **recursion** works and when it’s useful.  
-- The concept of **base cases** and how to avoid infinite recursion.  
+- The use of **parameters** and **return values**.  
+- The concept of **local vs global variables** inside functions.  
+- What **recursion** is and how to apply it to repetitive problems.  
+- How to structure real-world programs efficiently using functions.
 
 ---
 
-## 🧩 Files Description
+## 🧩 Folder Structure
+
+```
+
+├── 06_Functions_Recursion/
+│   ├── 01_functions_basics.py
+│   ├── 02_return_and_parameters.py
+│   ├── 03_global_variables_functions.py
+│   ├── 04_recursion_basics.py
+│   ├── Practice_Exercises/
+│   └── README.md
+
+```
+
+---
+
+## 📂 Files Description
 
 | File Name | Description |
 |------------|-------------|
-| `01_functions_basics.py` | Introduces basic function syntax, calling, and organizing reusable blocks of code. |
-| `02_return_and_parameters.py` | Explains how to pass arguments to functions and return results. |
-| `03_global_variables_functions.py` | Demonstrates local vs global scope and how variables behave inside functions. |
-| `04_recursion_basics.py` | Explains recursion with examples like factorial and countdown, showing how a function can call itself. |
-
----
-
-## 📂 Practice Folder
-
-### `Practice_Exercises/`
-This folder contains practical coding challenges based on functions and recursion.  
-It’s designed to help you strengthen your understanding through real exercises.  
-
-Example challenges might include:
-- Creating a function to calculate factorial or Fibonacci numbers.  
-- Writing a recursive function to find the sum of natural numbers.  
-- Building small utilities (e.g., greeting users, temperature conversion).  
+| `01_functions_basics.py` | Introduces what functions are, how to define them using `def`, and how to call them. |
+| `02_return_and_parameters.py` | Demonstrates how to use **parameters** and **return statements** to make functions flexible and reusable. |
+| `03_global_variables_functions.py` | Explains the difference between **local** and **global** variables, and how to use the `global` keyword. |
+| `04_recursion_basics.py` | Introduces **recursion** — when a function calls itself — with examples like factorial and Fibonacci series. |
 
 ---
 
@@ -46,25 +49,59 @@ Example challenges might include:
 
 ```python
 # Basic Function Example
-def greet(name):
-    print(f"Hello, {name}!")
+def greet():
+    print("Hello, welcome to Python learning!")
 
-greet("Sehrish")
+greet()  # Calling the function
 
-# Function with Return Value
-def add(a, b):
+
+# Function with Parameters and Return Value
+def add_numbers(a, b):
     return a + b
 
-result = add(5, 3)
-print("Sum is:", result)
+result = add_numbers(5, 3)
+print("Sum:", result)
 
-# Recursion Example
+
+# Local vs Global Variables
+x = 10  # Global variable
+
+def change_value():
+    global x  # Accessing global variable
+    x = 20
+    print("Inside function, x =", x)
+
+change_value()
+print("Outside function, x =", x)
+
+
+# Recursion Example – Factorial Function
 def factorial(n):
-    if n == 0 or n == 1:
+    if n == 1:
         return 1
     return n * factorial(n - 1)
 
-print("Factorial of 5 is:", factorial(5))
+print("Factorial of 5:", factorial(5))
 ```
+
 ---
+
+## 🧩 Practice Exercises
+
+The `Practice_Exercises/` folder includes beginner-to-intermediate problems designed to reinforce your understanding of **functions** and **recursion**.
+
+### Example Challenges:
+
+* Write a function that checks whether a number is prime.
+* Create a function that calculates the area of different shapes (circle, square, rectangle).
+* Write a recursive function to calculate the factorial of a number.
+* Build a recursive function to print Fibonacci numbers.
+* Write a function that reverses a string using both loops and recursion.
+
+---
+
+## 🚀 Next Section
+
 **Next Section →** [07_File_IO](../07_File_IO/README.md)
+
+---
