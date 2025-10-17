@@ -17,3 +17,7 @@ q=float(n)
 f=type(q)
 print(f)#explicit type casting
 
+# Typecasting--> converting datatype
+num_str = "123"
+num_int = int(num_str)
+print(num_int + 1)

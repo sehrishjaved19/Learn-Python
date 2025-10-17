@@ -12,22 +12,11 @@ print("You are "+str(age)+" Years old.")
 # Output--> use print() function
 print("Hello, World!")
 
-# using string formating
-name = "Sehrish"
-age = 19
-print(f"My name is {name} and I am {age} years old.")
+a = int(input("Enter 1st number:"))
 
+b = int(input("Enter 2nd number:"))
 
-# Typecasting--> converting datatype
-num_str = "123"
-num_int = int(num_str)
-print(num_int + 1)
-
-# Comments--> use to add notes
-# This is a single_line comment!
-''' this is a multi-line 
-comment
-that spans multiple lines.'''
-
-
+print("Number 1st is: ",a)
+print("Number 2nd is: ",b)
+print("The sum of 1st and 2nd number is: ",a+b)
 
