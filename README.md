@@ -71,17 +71,15 @@ Python-code/
 │   └── README.md
 │
 ├── 07_File_IO/
-│   ├── 01_read_files.py
-│   ├── 02_write_append_files.py
-│   ├── 03_with_statement.py
-│   ├── 04_file_methods.py
-│   ├── 05_project_file_handling.py
-│   ├── data/
-│   │   ├── poem.txt
-│   │   ├── file.txt
-│   │   └── myfile.txt
-│   ├── Practice_Exercises/
+│   ├── 01_file_basics.py
+│   ├── 02_read_file.py
+│   ├── 03_write_file.py
+│   ├── 04_append_file.py
+│   ├── 06_with_statement.py
+│   ├── file.txt
+│   ├── poem.txt
 │   └── README.md
+
 │
 ├── 08_Exceptions_Debugging/
 │   ├── 01_try_except.py
