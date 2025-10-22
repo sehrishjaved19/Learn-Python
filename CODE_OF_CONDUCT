@@ -1,74 +1,71 @@
-# 💎 Code of Conduct
+# Contributor Covenant Code of Conduct
 
-Welcome to the **Python Learning Repository**!  
-Our community values respect, collaboration, and continuous learning.  
-This Code of Conduct outlines the expectations for all contributors and participants to ensure a positive and inclusive environment for everyone.
+## Our Pledge
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity or expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
----
-
-## 🌟 Our Pledge
-
-We are committed to providing a welcoming and inspiring environment for people of all backgrounds and skill levels.  
-As contributors and maintainers, we pledge to make participation in our community a harassment-free experience for everyone — regardless of:
-
-- Age  
-- Gender identity or expression  
-- Race or ethnicity  
-- Experience level  
-- Education or background  
-- Religion or political beliefs  
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
 ---
 
-## 💬 Our Standards
+## Our Standards
 
-Examples of positive behavior include:
-
-- Being respectful and kind to others  
-- Giving constructive feedback and accepting it gracefully  
-- Focusing on what’s best for the community  
-- Using inclusive and supportive language  
-- Offering help and encouragement to beginners  
+Examples of behavior that contributes to a positive environment for our community include:
+- Demonstrating empathy and kindness toward other people  
+- Being respectful of differing opinions, viewpoints, and experiences  
+- Giving and gracefully accepting constructive feedback  
+- Accepting responsibility and apologizing to those affected by our mistakes  
+- Focusing on what is best for the community, not just for ourselves
 
 Examples of unacceptable behavior include:
-
-- Use of sexualized language or imagery  
-- Personal attacks, insults, or trolling  
-- Harassment or discrimination of any kind  
-- Sharing others’ private information without consent  
-- Any conduct that would make others feel unsafe or unwelcome  
-
----
-
-## ⚖️ Our Responsibilities
-
-Project maintainers are responsible for clarifying acceptable behavior and taking appropriate action when participants engage in unacceptable conduct.  
-They have the right to remove or reject contributions that violate this Code of Conduct.
+- The use of sexualized language or imagery and unwelcome sexual attention  
+- Trolling, insulting or derogatory comments, and personal or political attacks  
+- Public or private harassment  
+- Publishing others' private information without explicit permission  
+- Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ---
 
-## 🚫 Enforcement
+## Enforcement Responsibilities
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate corrective action in response to any behavior they deem inappropriate, threatening, offensive, or harmful.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the repository maintainer:  
-**Maintainer:** Sehrish Javed  
-**GitHub:** [@sehrishjaved19](https://github.com/sehrishjaved19)  
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct.
 
+---
+
+## Scope
+This Code of Conduct applies within all community spaces (both online and offline) and also applies when an individual officially represents the community.
+
+---
+
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting **Sehrish Javed** at [your-email@example.com].  
 All complaints will be reviewed and investigated promptly and fairly.
 
----
-
-## 💡 Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1.
+All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
 ---
 
-## 🌱 Our Commitment to Growth
+## Enforcement Guidelines
 
-We believe learning is most effective in a positive, supportive environment.  
-Let’s work together to make this space one where everyone feels encouraged to grow, share knowledge, and succeed.  
+### 1. Correction
+**Impact:** Use of inappropriate language or other behavior deemed unprofessional.  
+**Consequence:** A private, written warning from community leaders.
 
-**Thank you for being part of this community! 💖**
+### 2. Warning
+**Impact:** A pattern of violations or a single serious incident.  
+**Consequence:** A warning and temporary exclusion from community interactions.
+
+### 3. Temporary Ban
+**Impact:** Serious violation of community standards.  
+**Consequence:** Temporary ban from participation.
+
+### 4. Permanent Ban
+**Impact:** Repeated or extreme violations.  
+**Consequence:** Permanent ban from community spaces.
 
 ---
 
+## Attribution
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
+
+For answers to common questions about this code of conduct, see the [FAQ](https://www.contributor-covenant.org/faq).
